@@ -75,3 +75,30 @@ footer p{
     text-align: center;
      font-size: 12px;
 }
+
+.work-image{
+    width: 25%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.work-image img{
+    width: 100%;
+}
+.client-area{
+    text-align: center;
+
+}
+.client-area p{
+    text-align: center;
+    font-size: 14px;
+}
+.message-part{
+    width: 50%;
+    margin: 5% 25%;
+    background-color: #EC4F91;
+    border-radius: 15px;
+    padding: 20px 20px;
+    color: azure;
+   
+}
